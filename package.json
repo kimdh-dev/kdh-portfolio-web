@@ -1,0 +1,16 @@
+{
+  "name": "kdh-portfolio-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "netlify deploy --prod"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "netlify-cli": "^17.10.1",
+    "netlify-lambda": "^2.0.16"
+  }
+}
