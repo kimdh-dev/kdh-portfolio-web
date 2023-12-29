@@ -15,11 +15,11 @@
 - CSS3
   - bootstrap
 - JAVASCRIPT
+  - Jquery
   - Lodash
   - GASP (Scroll To Plugin)
 
 ## 시작하기
 ### 실행
-
     npm install
     npm run dev
