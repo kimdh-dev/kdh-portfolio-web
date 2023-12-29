@@ -6,7 +6,7 @@
 - https://kdh-portfolio-web.netlify.app/
 
 # 프로젝트 소개
-![웹사이트 이미지](https://github.com/kimdh-dev/kdh-portfolio-web/assets/154648897/b29ab71d-1c47-4692-8c8b-846a393f4ce8)
+![웹사이트 이미지](https://github.com/kimdh-dev/kdh-portfolio-web/assets/73946781/42c9ef90-4fc6-4449-8a64-f8b0ccea0a81)
 
 - 포트폴리오 용도로 제작한 웹사이트입니다.
 
