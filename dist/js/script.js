@@ -144,7 +144,7 @@ window.addEventListener('scroll', _.throttle(
 
 // base64 인코딩된 것
 const encoded_name = 'JUVBJUI5JTgwJUVCJThGJTk5JUVEJTlDJTk4';
-const encoded_birth = 'MDMuMDguMzA=';
+const encoded_birth = 'MjAwMyVFQiU4NSU4NCUyMDglRUMlOUIlOTQlMjAzMCVFQyU5RCVCQw==';
 const encoded_address = 'JUVBJUIyJUJEJUVBJUI4JUIwJUVCJThGJTg0JTIwJUVCJUI2JTgwJUVDJUIyJTlDJUVDJThCJTlD';
 const encoded_phone_num = 'MDEwLTQzMTktMjM3OA==';
 const encoded_email = 'a2RoLmRldnNAZ21haWwuY29t';
